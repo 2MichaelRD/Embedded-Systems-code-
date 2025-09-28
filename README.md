@@ -11,9 +11,9 @@ Changes / creations include:
 - created assembler.h
 - created assembler.s
 
-MorseASM demo
+MorseC demo
 https://github.com/user-attachments/assets/3693b3e8-6e9f-49e7-bd71-08ea74df3089
 
-MorseC demo
+MorseASM demo
 https://github.com/user-attachments/assets/e447228b-a8a4-49c4-8c92-7c03e9f23544
 
