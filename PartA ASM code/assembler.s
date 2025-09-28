@@ -3,9 +3,11 @@
 https://community.st.com/t5/stm32cubeide-mcus/how-to-run-assembly-code-in-stm32-cube-ide-nucleo-f446re/m-p/139119
 https://developer.arm.com/documentation/dui0489/e/arm-and-thumb-instructions/memory-access-instructions/push-and-pop
 https://forums.raspberrypi.com/viewtopic.php?t=258550
+I also used chatGPT, I used chatgpt to help me understand how to properly use the PUSH and POP in arm assembly and
+create the proper delays
 
-
-*/                                                                                                      .syntax unified
+*/                                                                                                      
+.syntax unified
 .thumb
 .text
 
@@ -199,3 +201,4 @@ morse_U:
 	BL dot
 	BL dash
 	POP {pc}
+
