@@ -1,3 +1,13 @@
-## Code For lab 1 
-# Part a in C 
+# Code For lab 1 
+### Part a in C 
 I encountered issues trying to add the entire folder with all project code so I have just added the code changes were made to after creating a brand new stm32 project for the f411RE board
+Changes include:
+- edited main.c
+
+### Part a in assembly
+Same thing as the C code, I have only added the files that I either changed or created to get the ASM code to run
+Changes / creations include:
+- edited main.c
+- created assembler.h
+- created assembler.s
+
